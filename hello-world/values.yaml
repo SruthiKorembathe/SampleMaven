@@ -25,3 +25,6 @@ serviceAccount:
 service:
   type: ClusterIP
   port: 80
+#route:
+#  enabled: true
+#  host: hello-world.apps.your-ocp-domain.com
